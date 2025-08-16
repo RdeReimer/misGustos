@@ -31,3 +31,19 @@ footer{
     justify-content: center;
     padding-top: 50px;
 }
+
+.code{
+    color: green;
+}
+
+.musica{
+    color: blue;
+}
+
+.videojuegos{
+    color: red;
+}
+
+.mtb{
+    color: orange;
+}
